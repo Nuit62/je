@@ -1,9 +1,10 @@
+{
+  "ApiVersion": 2,
+  "Name": "ях",
+  "Description": "Мирным",
+  "StartClientVersion": 532,
   "MapLists": [
     {
       "MapListId": 324,
       "Name": "Официальные карты"
-    },
-    {
-      "MapListId": 581
     }
-  ]
